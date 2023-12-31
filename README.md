@@ -12,10 +12,11 @@ The variables represent all of our main data related to confirmed cases, deaths,
 
 ### Confirmed Deaths
 ![image](https://github.com/Vajraayudham/Covid_19_Data_Analysis/assets/86905678/b8185bb6-3d36-402f-b298-020c7633d0b9)
+      
       Note: Due to varying protocols and challenges in the attribution of the cause of death, the number of confirmed deaths may not accurately represent the true number of deaths caused 
             by COVID-19.
 
-###Excess mortality
+### Excess mortality
 ![image](https://github.com/Vajraayudham/Covid_19_Data_Analysis/assets/86905678/489629e5-a634-4eca-9f96-80fbf0d46402)
 
 ![image](https://github.com/Vajraayudham/Covid_19_Data_Analysis/assets/86905678/04c67ed2-2ab5-4a6b-8d28-e1c0edd8371c)
